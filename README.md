@@ -1,2 +1,7 @@
-# machine-learning-basics-Public
-My journey learning machine learning step by step
+# Machine Learning Learning Path
+
+This repository contains my ML learning projects.
+Each notebook represents a learning step.
+
+## Current topics
+- Simple regression model
