@@ -5,3 +5,4 @@ Each notebook represents a learning step.
 
 ## Current topics
 - Simple regression model
+- Polynomial regression
