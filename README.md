@@ -1,8 +1,21 @@
 # Machine Learning Learning Path
 
-This repository contains my ML learning projects.
-Each notebook represents a learning step.
+This repository documents my journey of learning Machine Learning.
+Each notebook represents a practical step where I implement and experiment
+with core ML concepts.
 
-## Current topics
-- Simple regression model
-- Polynomial regression
+## Implemented Topics
+- Simple Linear Regression
+- Multiple Linear Regression
+- Polynomial Regression
+
+## Tools & Libraries
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- scikit-learn
+
+## Notes
+These projects are for learning purposes and focus on understanding
+the ML pipeline, from data preprocessing to model evaluation.
